@@ -1,2 +1,2 @@
-# playeright-practice
+# playwright-practice
 learning playwright basics 
