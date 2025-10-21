@@ -1,0 +1,23 @@
+{
+  "name": "playwright-practice",
+  "version": "1.0.0",
+  "description": "learning playwright basics",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuyyurukiran11-cpu/playwright-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vuyyurukiran11-cpu/playwright-practice/issues"
+  },
+  "homepage": "https://github.com/vuyyurukiran11-cpu/playwright-practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1"
+  }
+}
